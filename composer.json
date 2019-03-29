@@ -1,7 +1,9 @@
 {
     "name": "simpod/jetbrains-bugs",
     "type": "project",
-    "require": {},
+    "require": {
+        "thecodingmachine/safe": "^0.1.14"
+    },
     "authors": [
         {
             "name": "Simon Podlipsky",
