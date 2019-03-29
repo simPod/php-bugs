@@ -1,0 +1,16 @@
+{
+    "name": "simpod/jetbrains-bugs",
+    "type": "project",
+    "require": {},
+    "authors": [
+        {
+            "name": "Simon Podlipsky",
+            "email": "simon@podlipsky.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SimPod\\JetbrainsBugs\\": [ "src/" ]
+        }
+    }
+}
