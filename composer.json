@@ -1,7 +1,9 @@
 {
     "name": "simpod/jetbrains-bugs",
     "type": "project",
-    "require": {},
+    "require": {
+        "doctrine/dbal": "^2.9"
+    },
     "authors": [
         {
             "name": "Simon Podlipsky",
