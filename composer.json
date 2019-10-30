@@ -14,5 +14,8 @@
         "psr-4": {
             "SimPod\\JetbrainsBugs\\": [ "src/" ]
         }
+    },
+    "require-dev": {
+        "kwn/php-rdkafka-stubs": "^2.0"
     }
 }
