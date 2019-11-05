@@ -2,7 +2,8 @@
     "name": "simpod/jetbrains-bugs",
     "type": "project",
     "require": {
-        "php-64bit": "^7.2"
+        "php-64bit": "^7.2",
+        "ext-intl": "*"
     },
     "authors": [
         {
