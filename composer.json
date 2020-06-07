@@ -1,5 +1,5 @@
 {
-    "name": "simpod/jetbrains-bugs",
+    "name": "simpod/bugs",
     "type": "project",
     "require": {
         "php-64bit": "^7.2"
@@ -12,7 +12,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "SimPod\\JetbrainsBugs\\": [ "src/" ]
+            "SimPod\\Bugs\\": [ "src/" ]
         }
     }
 }
