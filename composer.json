@@ -14,5 +14,8 @@
         "psr-4": {
             "SimPod\\Bugs\\": [ "src/" ]
         }
+    },
+    "require-dev": {
+        "vimeo/psalm": "^3.14"
     }
 }
